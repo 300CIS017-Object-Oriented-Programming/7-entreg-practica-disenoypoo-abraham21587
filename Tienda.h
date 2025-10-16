@@ -1,0 +1,13 @@
+//
+// Created by Usuario on 16/10/2025.
+//
+
+#ifndef POOSISTEMAGESTIONVENTAS_TIENDA_H
+#define POOSISTEMAGESTIONVENTAS_TIENDA_H
+
+
+class Tienda {
+};
+
+
+#endif //POOSISTEMAGESTIONVENTAS_TIENDA_H

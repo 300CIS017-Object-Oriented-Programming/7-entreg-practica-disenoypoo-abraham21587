@@ -1,0 +1,13 @@
+//
+// Created by Usuario on 16/10/2025.
+//
+
+#ifndef POOSISTEMAGESTIONVENTAS_CLIENTE_H
+#define POOSISTEMAGESTIONVENTAS_CLIENTE_H
+
+
+class Cliente {
+};
+
+
+#endif //POOSISTEMAGESTIONVENTAS_CLIENTE_H
