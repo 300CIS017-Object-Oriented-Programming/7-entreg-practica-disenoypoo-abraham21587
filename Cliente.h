@@ -6,7 +6,19 @@
 #define POOSISTEMAGESTIONVENTAS_CLIENTE_H
 
 
+#include <string>    // 🔹 OBLIGATORIO
+using namespace std;
+
 class Cliente {
+private:
+    string nombre;
+
+public:
+    Cliente();
+    Cliente(string n);
+    ~Cliente();
+
+    string getNombre();
 };
 
 

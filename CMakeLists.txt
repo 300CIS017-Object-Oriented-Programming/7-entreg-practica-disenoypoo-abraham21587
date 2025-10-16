@@ -5,4 +5,10 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(POOSistemaGestionVentas main.cpp
         Producto.cpp
-        Producto.h)
+        Producto.h
+        Cliente.cpp
+        Cliente.h
+        Venta.cpp
+        Venta.h
+        Tienda.cpp
+        Tienda.h)

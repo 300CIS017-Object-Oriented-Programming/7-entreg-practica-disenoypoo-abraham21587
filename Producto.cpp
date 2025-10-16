@@ -3,6 +3,7 @@
 //
 
 #include "Producto.h"
+#include <iostream>
 using namespace std;
 
 Producto::Producto() {}
